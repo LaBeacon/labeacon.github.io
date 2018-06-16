@@ -33,13 +33,13 @@ author: "LaBeacon"
 title: "{ LaBeacon }"
 description: "데이터 분석 스터디 모임입니다. 학습과 프로젝트를 진행하고 있습니다."
 keywords: "데이터분석, 딥러닝, 기계학습, 스터디, MachineLearning, Data, DataAnalysis"
-favicon: "/img/favicon.ico"
+#favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon/favicon.ico"
 
 background-img: "../img/intro-bg.jpg"
 
